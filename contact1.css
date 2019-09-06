@@ -1,0 +1,25 @@
+body {
+	background-color: orange;
+	}
+h1 { 
+	color: green;
+	style: arial;
+	}
+
+p {
+	font-size: 20px;
+	}
+h1 {
+  border: 5px solid yellow;
+  outline-style: solid;
+  outline-color: invert;
+  outline-width: thin;
+}
+p{
+	border: 2px solid black;
+	border-radius: 5px;
+
+	}
+#p1:hover{
+	background: red;
+	}
